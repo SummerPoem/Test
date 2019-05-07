@@ -1,2 +1,6 @@
 system.out.println("hello world");
 system.out.println("Summer Pockets");
+
+for(int i = 0; i < 100; i++) {
+    system.out.println("hello world");
+}
